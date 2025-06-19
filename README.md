@@ -11,6 +11,6 @@ The dataset used is a preprocessed version of the NSL-KDD or similar intrusion d
 
 <br />
 
-## References & Inspiration
+## References
 - [Cynthia Koopman's NIDS ML Repo](https://github.com/CynthiaKoopman/Network-Intrusion-Detection)
 - [Pentakota Sirisha’s GCN-based Intrusion Detection](https://www.kaggle.com/code/pentakotasirisha/intrusion-detection-system-with-gcn-model#Visualization)
